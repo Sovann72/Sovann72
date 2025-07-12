@@ -9,5 +9,5 @@ Postgres.
 Learning:
 
 React Native.
-Nest(Upskill)
-Postgres & DB design(Upskill)
+Nest(Upskill).
+Postgres & DB design(Upskill).
